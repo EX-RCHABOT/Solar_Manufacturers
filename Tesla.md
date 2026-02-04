@@ -15,7 +15,7 @@
   * **22–24 Powerwall 3 units**
 * Wall-mounted, distributed
 
-### Why this is risky for a 21-unit commercial project
+### Clustered Approach difficulties. 
 
 * Many discrete fire separation checks
 * Complex placarding and shutdown logic
@@ -38,7 +38,7 @@
 
 ### What it is
 
-**Tesla Megapack** is Tesla’s **commercial / utility-grade BESS**, and this is what fire departments, utilities, and tax advisors expect to see on a project like yours.
+**Tesla Megapack** is Tesla’s **commercial/utility-grade BESS**, and this is what fire departments, utilities, and tax advisors expect to see on a project like yours.
 
 ### Key specs (Megapack 2 XL – typical)
 
